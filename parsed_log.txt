@@ -1,0 +1,1754 @@
+PHP 5.4 Compatibility Log
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/course/info.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 60 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/course/lib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  923 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 2682 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 3272 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 4350 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/course/rest.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 207 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/course/import/groups/index.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+  94 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 122 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/calendar/view.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 316 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/int/Documents/macmillan/sl_sapling/src/cms/moodle/admin/roles/assign.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 290 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/css/jquery.qtip.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ts/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/js/load-image.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/js/jquery.qtip.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: .../macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/js/jquery-1.7.2.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...acmillan/sl_sapling/src/cms/moodle/admin/taxonomy/js/canvas-to-blob.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/js/tmpl.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sl_sapling/src/cms/moodle/admin/taxonomy/js/jquery-ui-1.8.22.custom.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...int/Documents/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/rdbms.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 199 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/int/Documents/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/lib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 19 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3; Usemysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../int/Documents/macmillan/sl_sapling/src/cms/moodle/admin/taxonomy/save.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 270 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead@
+ 329 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ers/int/Documents/macmillan/sl_sapling/src/cms/moodle/admin/uploaduser.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 364 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 364 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...uments/macmillan/sl_sapling/src/cms/moodle/admin/report/unittest/index.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 140 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...acmillan/sl_sapling/src/cms/moodle/admin/report/unittest/js/LocalDB.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/enrol/saplinglearning/ipn.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 135 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 135 @| WARNING | Function eregi() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ments/macmillan/sl_sapling/src/cms/moodle/enrol/saplinglearning/cancel.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/macmillan/sl_sapling/src/cms/moodle/enrol/saplinglearning/ipnPayment.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 96 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 96 @| WARNING | Function eregi() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../macmillan/sl_sapling/src/cms/moodle/enrol/saplinglearning/paypal_form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...apling/src/cms/moodle/enrol/saplinglearning/credit_granter/jquery-1.8.2.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/user/editadvanced_form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 183 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 183 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/grade/edit/tree/grade_form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 69 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/grade/edit/outcome/import.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 67 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/grade/edit/outcome/export.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 46 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/src/cms/moodle/grade/report/user/styles.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/grade/import/csv/index.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  86 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 116 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 167 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cmillan/sl_sapling/src/cms/moodle/grade/import/csv/ajax_process_import.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 87 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/add/lib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 253 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 254 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 255 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 293 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 294 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 295 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...int/Documents/macmillan/sl_sapling/src/cms/moodle/theme/vitality/js/js.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cmillan/sl_sapling/src/cms/moodle/theme/learning_horizon/styles_layout.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...rs/int/Documents/macmillan/sl_sapling/src/cms/moodle/lib/deprecatedlib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1019 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 1019 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/accesslib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  701 @| WARNING | Using 'break' outside of a loop or switch structure isinvalid@
+ 4062 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 4064 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cms/moodle/lib/pear/HTML/QuickForm/select.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 110 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/src/cms/moodle/lib/form/dateselector.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 171 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...uments/macmillan/sl_sapling/src/cms/moodle/lib/form/datepickerselector.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 178 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 241 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 247 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 249 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/datalib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 861 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...macmillan/sl_sapling/src/cms/moodle/lib/jqueryAlert/jquery.ui.draggable.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/src/cms/moodle/lib/jqueryAlert/jquery.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/kses.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 492 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/lib/overlib/overlib.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...n/sl_sapling/src/cms/moodle/lib/Spreadsheet/Excel/Reader/excel_reader2.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+   1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+  79 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 187 @| WARNING | Method name "OLERead::__readData" is discouraged; PHP hasreserved all method names with a double underscore prefix forfuture use.@
+ 199 @| WARNING | Method name "OLERead::__readPropertySets" is discouraged; PHPhas reserved all method names with a double underscore prefixfor future use.@
+ 837 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 909 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/src/cms/moodle/lib/Spreadsheet/Excel/Writer/Workbook.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 180 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 189 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...acmillan/sl_sapling/src/cms/moodle/lib/Spreadsheet/Excel/Writer/Parser.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 7 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------
+ 676 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 678 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 724 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 740 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 821 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 868 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 914 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...illan/sl_sapling/src/cms/moodle/lib/Spreadsheet/Excel/Writer/Worksheet.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1341 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...an/sl_sapling/src/cms/moodle/lib/jQuery/css/index_page/jquery.treeview.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/macmillan/sl_sapling/src/cms/moodle/lib/jsLibraries/jquery.easing.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ents/macmillan/sl_sapling/src/cms/moodle/lib/jsLibraries/jquery-migrate.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cms/moodle/lib/jsLibraries/jquery.mask.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/lib/jsLibraries/jQueryUICMS.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/src/cms/moodle/lib/jsLibraries/jQueryCMS.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/src/cms/moodle/lib/simpletestlib/ui/webunit_reporter.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 186 @| ERROR | The keyword 'parent' was treated in a case-sensitive fashion incertain cases in PHP 5.4 or earlier. Use the lowercase versionfor consistent support.@
+ 199 @| ERROR | The keyword 'parent' was treated in a case-sensitive fashion incertain cases in PHP 5.4 or earlier. Use the lowercase versionfor consistent support.@
+ 210 @| ERROR | The keyword 'parent' was treated in a case-sensitive fashion incertain cases in PHP 5.4 or earlier. Use the lowercase versionfor consistent support.@
+ 220 @| ERROR | The keyword 'parent' was treated in a case-sensitive fashion incertain cases in PHP 5.4 or earlier. Use the lowercase versionfor consistent support.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/detached.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 56 @| WARNING | Assigning the return value of new by reference is deprecated inPHP 5.3@
+ 73 @| WARNING | Assigning the return value of new by reference is deprecated inPHP 5.3@
+ 75 @| WARNING | Assigning the return value of new by reference is deprecated inPHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/parser.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 208 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 590 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/remote.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  78 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+  89 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 106 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/unit_tester.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  74 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+  89 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 238 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 260 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 266 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 277 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/http.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 9 WARNINGS AFFECTING 9 LINES
+--------------------------------------------------------------------------------
+ 101 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 103 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 282 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 319 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 460 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 519 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 522 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 524 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 525 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: .../sl_sapling/src/cms/moodle/lib/simpletestlib/extensions/pear_test_case.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  47 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+  49 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+  83 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 104 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/url.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 109 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 187 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 382 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/user_agent.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  48 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+  49 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 180 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 299 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 311 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 317 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/simpletest.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 274 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/mock_objects.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 154 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...uments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/test_case.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 108 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 110 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 424 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 541 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 588 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/web_tester.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 193 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 209 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 506 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/browser.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 180 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 192 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 202 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 253 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 270 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 289 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/page.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 165 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 177 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 190 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 631 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/shell_tester.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 329 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 176 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 195 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/lib/simpletestlib/eclipse.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 18 @| WARNING | Assigning the return value of new by reference is deprecated inPHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/filelib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 250 @| WARNING | INI directive 'safe_mode' is deprecated since PHP 5.3 andremoved since PHP 5.4@
+ 550 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 550 @| WARNING | Function eregi() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../int/Documents/macmillan/sl_sapling/src/cms/moodle/lib/dmllib_original.php
+--------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 1291 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 1491 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 1657 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 2339 @| ERROR | INI directive 'magic_quotes_sybase' is deprecated since PHP 5.3and removed since PHP 5.4@
+ 2347 @| ERROR | INI directive 'magic_quotes_sybase' is deprecated since PHP 5.3and removed since PHP 5.4@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/blocklib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 180 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 180 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...rs/int/Documents/macmillan/sl_sapling/src/cms/moodle/lib/taxonomy/isbn.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 77 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3; Usemysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/dmllib.php
+--------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 1415 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 1601 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 1778 @| ERROR | Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead@
+ 2485 @| ERROR | INI directive 'magic_quotes_sybase' is deprecated since PHP 5.3and removed since PHP 5.4@
+ 2493 @| ERROR | INI directive 'magic_quotes_sybase' is deprecated since PHP 5.3and removed since PHP 5.4@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/errorPage.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/combined.js
+------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/moodlelib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 33 WARNINGS AFFECTING 19 LINES
+--------------------------------------------------------------------------------
+  420 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  420 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  423 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  423 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  426 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  426 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  429 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  429 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  449 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  449 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  455 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  455 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  456 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+  456 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 1733 @| WARNING | The "is_dst" parameter for function mktime() is deprecatedsince PHP 5.1@
+ 1751 @| WARNING | The "is_dst" parameter for function mktime() is deprecatedsince PHP 5.1@
+ 1774 @| WARNING | The "is_dst" parameter for function mktime() is deprecatedsince PHP 5.1@
+ 1788 @| WARNING | The "is_dst" parameter for function mktime() is deprecatedsince PHP 5.1@
+ 4494 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 4494 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 4935 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 4935 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 5575 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 7021 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 7021 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 7893 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 7893 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 7894 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 7894 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 7896 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 7896 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 7897 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 7897 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../src/cms/moodle/lib/datetimepicker/ui/minified/jquery.ui.datepicker.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...apling/src/cms/moodle/lib/datetimepicker/ui/minified/jquery.ui.core.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/src/cms/moodle/lib/datetimepicker/jquery.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/lib/php-jwt-master/src/JWT.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 244 @| ERROR | The function hash_equals() is not present in PHP version 5.5 orearlier@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/formslib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+  110 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 1888 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/src/cms/moodle/lib/userlog/functions.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 20 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 20 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/lib/swfobject/swfobject.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...moodle/lib/editor/tinymce/jscripts/tiny_mce/plugins/jsmol/saplingJSmol.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 46 @| WARNING | The behaviour of hexadecimal numeric strings was inconsistentprior to PHP 7 and support has been removed in PHP 7. Found:'0xFFFFFF'@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/lib/weblib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 21 WARNINGS AFFECTING 11 LINES
+--------------------------------------------------------------------------------
+ 1352 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 1352 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 1795 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 1795 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 1806 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 1806 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2050 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2050 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2051 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2051 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2250 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2250 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2253 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2253 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2254 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2254 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2317 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2317 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 2321 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 2321 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 5624 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ocuments/macmillan/sl_sapling/src/cms/moodle/lib/simpletest/testweblib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 72 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 72 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 76 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 76 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ers/int/Documents/macmillan/sl_sapling/src/cms/moodle/backup/backuplib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 3938 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead@
+ 3938 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...int/Documents/macmillan/sl_sapling/src/cms/moodle/login/index_anywhere.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 117 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 117 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/login/index.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 126 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 126 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...rs/int/Documents/macmillan/sl_sapling/src/cms/moodle/login/signup_form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 189 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 189 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ers/int/Documents/macmillan/sl_sapling/src/cms/moodle/mod/scorm/player.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 284 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 284 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cms/moodle/mod/ibis/js/AnywhereLib.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...uments/macmillan/sl_sapling/src/cms/moodle/mod/ibis/js/jquery-1.7.1.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...illan/sl_sapling/src/cms/moodle/mod/ibis/js/jquery-ui-1.8.18.custom.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cms/moodle/mod/ibis/js/jquery.flip.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/mod/ibis/lib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 7 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------
+ 1812 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 1813 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 1814 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 1843 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 1844 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 1845 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+ 3926 @| WARNING | Function split() is deprecated since PHP 5.3; Usepreg_split() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sers/int/Documents/macmillan/sl_sapling/src/cms/moodle/mod/book/styles.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/cms/moodle/mod/book/lib.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 248 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 248 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 254 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 254 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...uments/macmillan/sl_sapling/src/cms/moodle/mod/ltiprovider/signup_form.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 213 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 213 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ers/int/Documents/macmillan/sl_sapling/src/cms/moodle/gateway/faketest.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+Time: 1 mins, 3.59 secs; Memory: 94.01Mb
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/doLogin.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: ...Users/int/Documents/macmillan/sl_sapling/src/ams/authorReviewQuestions.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/manageBookGroup.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/swf.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/edittaxonomy.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 8 WARNINGS AFFECTING 9 LINES
+--------------------------------------------------------------------------------
+ 147 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 385 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+ 385 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+ 457 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 493 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 535 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 581 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 605 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 614 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+ 622 @| WARNING | Using 'break' outside of a loop or switch structure is invalid@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/showTutorial.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/ams/superHome.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/login.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/src/index.php
+-----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+-----------------------------------------------------------------------------
+
+
+FILE: ...s/int/Documents/macmillan/sl_sapling/src/css/StudentPHPBridgeFunctions.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 16 WARNINGS AFFECTING 8 LINES
+--------------------------------------------------------------------------------
+  65 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  65 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  66 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  66 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  76 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  76 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  77 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  77 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  78 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  78 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+  79 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+  79 @| WARNING | Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 118 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 118 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+ 119 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 119 @| WARNING | Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...l_sapling/src/includes/saplingsystems/ibis/mysql/getAssignmentPolicies.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: .../sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Macromolecule_PDB.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 74 @| WARNING | Assigning the return value of new by reference is deprecated inPHP 5.3@
+ 74 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4
+ 74 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4
+ 75 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Coordinates.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Residue_PDB.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 99 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 99 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+--------------------------------------------------------------------------------
+
+
+FILE: ...illan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Molecule_XYZ.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AND 7 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 80 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 80 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 80 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4
+ 84 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 84 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 84 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 84 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+ 99 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Atom.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 66 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 66 @| WARNING | Function ereg() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...macmillan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Atom_PDB.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...macmillan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/Molecule.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...acmillan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/PDBParser.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AND 1 WARNING AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+   1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+ 113 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+ 139 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+ 155 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+ 193 | ERROR   | Using a call-time pass-by-reference is deprecated since PHP5.3 and prohibited since PHP 5.4
+--------------------------------------------------------------------------------
+
+
+FILE: .../macmillan/sl_sapling/src/cds/Tools/file_upload/pear/Chemistry/PDBFile.php
+--------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 127 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 167 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 176 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 176 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 177 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+--------------------------------------------------------------------------------
+
+
+FILE: ...int/Documents/macmillan/sl_sapling/src/cds/Tools/file_upload/pear/PEAR.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 569 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 572 @| WARNING | Assigning the return value of new by reference is deprecatedin PHP 5.3@
+ 745 @| WARNING | INI directive 'safe_mode' is deprecated since PHP 5.3 andremoved since PHP 5.4@
+ 759 @| WARNING | Function dl() is deprecated since PHP 5.3@
+ 759 @| WARNING | Function dl() is deprecated since PHP 5.3@
+--------------------------------------------------------------------------------
+
+
+FILE: ...acmillan/sl_sapling/src/cds/Tools/file_upload/handle_pdb_upload_manual.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 51 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 51 @| WARNING | Function eregi() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../macmillan/sl_sapling/src/cds/Tools/file_upload/handle_pdb_upload_pear.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 125 @| WARNING | Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead@
+ 125 @| WARNING | Function eregi() is deprecated since PHP 5.3; Use preg_match()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/src/cds/Tools/file_upload/FlashHeader.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 165 @| WARNING | Method name "Rect::__str__" is discouraged; PHP has reservedall method names with a double underscore prefix for futureuse.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Users/int/Documents/macmillan/sl_sapling/src/cds/Tools/file_upload/swf.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ers/int/Documents/macmillan/sl_sapling/src/cds/classware/css/style.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cds/classware/css/jquery-ui.theme.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cds/classware/css/jquery-ui.structure.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/macmillan/sl_sapling/src/cds/classware/js/jquery-ui-1.10.2.custom.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/src/cds/classware/js/jquery-2.1.3.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...cuments/macmillan/sl_sapling/src/cds/classware/js/jquery-ui-1.11.14.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...rs/int/Documents/macmillan/sl_sapling/src/cds/classware/js/flowtype.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nts/macmillan/sl_sapling/src/cds/classware/js/jquery.ui.touch-punch.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ts/macmillan/sl_sapling/src/payment_app/assets/styles/font-awesome.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+Time: 3.11 secs; Memory: 22Mb
+
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/booker/scripts/run.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 16 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+ 54 @| ERROR | Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4@
+--------------------------------------------------------------------------------
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/booker/scripts/rdbms.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 196 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+Time: 179ms; Memory: 8Mb
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/its/includes/database.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1704 @| WARNING | Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead@
+--------------------------------------------------------------------------------
+
+Time: 962ms; Memory: 20Mb
+
+
+FILE: .../Documents/macmillan/sl_sapling/public/sac/periodictable/css/style.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...llan/sl_sapling/public/sac/periodictable/js/jquery-ui-1.10.2.custom.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ments/macmillan/sl_sapling/public/sac/periodictable/js/jquery-2.1.3.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...Documents/macmillan/sl_sapling/public/sac/periodictable/js/flowtype.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/public/sac/periodictable/js/jquery.ui.touch-punch.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: .../int/Documents/macmillan/sl_sapling/public/sac/periodictable/js/lab.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+Time: 334ms; Memory: 16Mb
+
+
+FILE: /Users/tomi/Documents/macmillan/sl_sapling/sapling_app/sapling/index.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ng/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/true.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ..._app/webservice/MyActivitySequoia/util/latex/primitives/newenvironment.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ng_app/webservice/MyActivitySequoia/util/latex/primitives/addtocounter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ng/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/show.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ing/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/def.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling_app/webservice/MyActivitySequoia/util/latex/primitives/newcommand.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sapling_app/webservice/MyActivitySequoia/util/latex/primitives/showall.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ing_app/webservice/MyActivitySequoia/util/latex/primitives/expandafter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/if.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...apling_app/webservice/MyActivitySequoia/util/latex/primitives/xymatrix.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sapling_app/webservice/MyActivitySequoia/util/latex/primitives/endmath.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: .../sapling_app/webservice/MyActivitySequoia/util/latex/primitives/csname.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling_app/webservice/MyActivitySequoia/util/latex/primitives/usepackage.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling_app/webservice/MyActivitySequoia/util/latex/primitives/setcounter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling_app/webservice/MyActivitySequoia/util/latex/primitives/newcounter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ling_app/webservice/MyActivitySequoia/util/latex/primitives/usecounter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ..._app/webservice/MyActivitySequoia/util/latex/primitives/refstepcounter.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...g/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/false.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ng/sapling_app/webservice/MyActivitySequoia/util/latex/primitives/fbox.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: .../sapling_app/webservice/MyActivitySequoia/util/latex/primitives/entity.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sapling_app/webservice/MyActivitySequoia/util/latex/primitives/largeop.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...g_app/webservice/MyActivitySequoia/util/latex/primitives/documentclass.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...llan/sl_sapling/sapling_app/webservice/MyActivitySequoia/util/EvalMath.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...lan/sl_sapling/sapling_app/webservice/MyActivitySequoia/util/Inflector.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  60 @| WARNING | Method name "Inflector::__initPluralRules" is discouraged; PHPhas reserved all method names with a double underscore prefixfor future use.@
+ 196 @| WARNING | Method name "Inflector::__initSingularRules" is discouraged;PHP has reserved all method names with a double underscoreprefix for future use.@
+ 432 @| WARNING | Method name "Inflector::__enclose" is discouraged; PHP hasreserved all method names with a double underscore prefix forfuture use.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...ents/macmillan/sl_sapling/sapling_app/webservice/util/includes_classes.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File has mixed line endings; this may cause incorrect results@
+--------------------------------------------------------------------------------
+
+
+FILE: ...nt/Documents/macmillan/sl_sapling/sapling_app/webservice/util/EvalMath.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...t/Documents/macmillan/sl_sapling/sapling_app/webservice/util/Inflector.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  55 @| WARNING | Method name "Inflector::__initPluralRules" is discouraged; PHPhas reserved all method names with a double underscore prefixfor future use.@
+ 191 @| WARNING | Method name "Inflector::__initSingularRules" is discouraged;PHP has reserved all method names with a double underscoreprefix for future use.@
+ 427 @| WARNING | Method name "Inflector::__enclose" is discouraged; PHP hasreserved all method names with a double underscore prefix forfuture use.@
+--------------------------------------------------------------------------------
+
+
+FILE: ...millan/sl_sapling/sapling_app/webservice/Models/helpers/DateTimeHelper.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 47 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/int/Documents/macmillan/sl_sapling/sapling_app/webservice/LMSGetData.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 208 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 652 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+ 657 @| WARNING | Function split() is deprecated since PHP 5.3; Use preg_split()instead@
+--------------------------------------------------------------------------------
+
+
+FILE: .../sapling_app/webservice_test/Models/visual/app/public/js/jquery.hotkeys.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sl_sapling/sapling_app/webservice_test/Models/visual/css/bootstrap.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sapling_app/webservice_test/Models/visual/css/bootstrap-responsive.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...illan/sl_sapling/sapling_app/webservice_test/Models/visual/js/html5shiv.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...llan/sl_sapling/sapling_app/webservice_test/Models/visual/js/jquery.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...llan/sl_sapling/sapling_app/webservice_test/Models/visual/js/highcharts.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...n/sl_sapling/sapling_app/webservice_test/Models/visual/js/bootstrap.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ..._sapling/sapling_app/webservice_test/Models/coverage/css/bootstrap.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...pling_app/webservice_test/Models/coverage/css/bootstrap-responsive.min.css
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...lan/sl_sapling/sapling_app/webservice_test/Models/coverage/js/html5shiv.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...an/sl_sapling/sapling_app/webservice_test/Models/coverage/js/jquery.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...an/sl_sapling/sapling_app/webservice_test/Models/coverage/js/highcharts.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+
+FILE: ...sl_sapling/sapling_app/webservice_test/Models/coverage/js/bootstrap.min.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 @| WARNING | File appears to be minified and cannot be processed@
+--------------------------------------------------------------------------------
+
+Time: 7.84 secs; Memory: 90.01Mb
