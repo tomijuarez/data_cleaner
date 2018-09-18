@@ -1,0 +1,55 @@
+
+ WARNING 
+ Assigning the return value of new by reference is deprecated inPHP 5.3 
+ WARNING 
+ Assigning the return value of new by reference is deprecatedin PHP 5.3 
+ WARNING 
+ Extension 'ereg' is deprecated since PHP 5.3; Use pcre instead 
+ WARNING 
+ Extension 'ereg' is deprecated since PHP 5.3; Use pcreinstead 
+ WARNING 
+ File appears to be minified and cannot be processed 
+ WARNING 
+ File has mixed line endings; this may cause incorrect results 
+ WARNING 
+ Function dl() is deprecated since PHP 5.3 
+ WARNING 
+ Function ereg() is deprecated since PHP 5.3; Use preg_match()instead 
+ WARNING 
+ Function ereg_replace() is deprecated since PHP 5.3; Usepreg_replace() instead 
+ WARNING 
+ Function eregi() is deprecated since PHP 5.3; Use preg_match()instead 
+ WARNING 
+ Function eregi_replace() is deprecated since PHP 5.3; Usepreg_replace() instead 
+ WARNING 
+ Function mysql_escape_string() is deprecated since PHP 5.3; Usemysqli::real_escape_string() instead 
+ WARNING 
+ Function mysql_escape_string() is deprecated since PHP 5.3;Use mysqli::real_escape_string() instead 
+ WARNING 
+ Function split() is deprecated since PHP 5.3; Use preg_split()instead 
+ WARNING 
+ Function split() is deprecated since PHP 5.3; Usepreg_split() instead 
+ WARNING 
+ INI directive 'safe_mode' is deprecated since PHP 5.3 andremoved since PHP 5.4 
+ WARNING 
+ Method name "Inflector::__enclose" is discouraged; PHP hasreserved all method names with a double underscore prefix forfuture use. 
+ WARNING 
+ Method name "Inflector::__initPluralRules" is discouraged; PHPhas reserved all method names with a double underscore prefixfor future use. 
+ WARNING 
+ Method name "Inflector::__initSingularRules" is discouraged;PHP has reserved all method names with a double underscoreprefix for future use. 
+ WARNING 
+ Method name "OLERead::__readData" is discouraged; PHP hasreserved all method names with a double underscore prefix forfuture use. 
+ WARNING 
+ Method name "OLERead::__readPropertySets" is discouraged; PHPhas reserved all method names with a double underscore prefixfor future use. 
+ WARNING 
+ Method name "Rect::__str__" is discouraged; PHP has reservedall method names with a double underscore prefix for futureuse. 
+ WARNING 
+ No PHP code was found in this file and short open tags are notallowed by this install of PHP. This file may be using shortopen tags but PHP does not allow them. 
+ WARNING 
+ The "is_dst" parameter for function mktime() is deprecatedsince PHP 5.1 
+ WARNING 
+ The behaviour of hexadecimal numeric strings was inconsistentprior to PHP 7 and support has been removed in PHP 7. Found:'0xFFFFFF' 
+ WARNING 
+ Using 'break' outside of a loop or switch structure is invalid 
+ WARNING 
+ Using 'break' outside of a loop or switch structure isinvalid

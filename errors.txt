@@ -1,0 +1,11 @@
+
+ ERROR 
+ Extension 'oracle' is removed since PHP 5.1; Use oci8 orpdo_oci instead 
+ ERROR 
+ INI directive 'magic_quotes_sybase' is deprecated since PHP 5.3and removed since PHP 5.4 
+ ERROR 
+ The function hash_equals() is not present in PHP version 5.5 orearlier 
+ ERROR 
+ The keyword 'parent' was treated in a case-sensitive fashion incertain cases in PHP 5.4 or earlier. Use the lowercase versionfor consistent support. 
+ ERROR 
+ Using a call-time pass-by-reference is deprecated since PHP 5.3and prohibited since PHP 5.4

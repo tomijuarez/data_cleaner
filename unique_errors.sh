@@ -16,7 +16,7 @@ WARNINGS=()
 ERRORS=()
 #Search for LINE: pattern in log file and then grab the next to rows.
 while read -r line ; do
-  WARNING+=("$line")
+  WARNINGS+=("$line")
 done < <(cat $LOG_FILE | grep -o '@.*@' | grep 'WARNING' | tr '@' ' ')
 
 while read -r line ; do
